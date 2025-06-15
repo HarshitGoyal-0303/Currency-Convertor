@@ -29,7 +29,7 @@ This is a **Currency Converter** web application built using **HTML**, **CSS**, 
    - Users can enter the amount they wish to convert. If no amount is provided or if an invalid value is entered, the converter defaults to `1`.
 
 3. **Conversion Process**:
-   - Upon clicking the "Convert" button, an API request is made using the **Fawaz Ahmed Currency API** to get the latest exchange rate for the selected currencies.
+   - Upon clicking the "Convert" button, an API request is made using the **Currency API** to get the latest exchange rate for the selected currencies.
    - The converted amount is then displayed on the screen.
 
 ## Installation and Usage
@@ -38,6 +38,6 @@ This is a **Currency Converter** web application built using **HTML**, **CSS**, 
 
 ```bash
 git clone https://github.com/HarshitGoyal-0303/Currency-Convertor.git
+```
 
 Author - Harshit Goyal
-```
