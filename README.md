@@ -19,11 +19,13 @@ This is a **Currency Converter** web application built using **HTML**, **CSS**, 
 
 ## How It Works
 
-1. **Currency Selection**: 
+1. **Currency Selection**:
+
    - Users can select the "From" and "To" currencies using dropdown menus. The application automatically sets "USD" as the default "From" currency and "INR" as the default "To" currency on page load.
    - Currency flags are dynamically updated based on the selected currencies.
 
 2. **Amount Input**:
+
    - Users can enter the amount they wish to convert. If no amount is provided or if an invalid value is entered, the converter defaults to `1`.
 
 3. **Conversion Process**:
@@ -33,5 +35,9 @@ This is a **Currency Converter** web application built using **HTML**, **CSS**, 
 ## Installation and Usage
 
 ### Clone the repository:
+
 ```bash
 git clone https://github.com/HarshitGoyal-0303/Currency-Convertor.git
+
+Author - Harshit Goyal
+```
